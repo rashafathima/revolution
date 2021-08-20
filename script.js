@@ -14,13 +14,13 @@ function showMessage(id) {
 
 function start() {
   var messages = $('.message');
-  var timeOut = 1000;
+  var timeOut = 1500;
 
   messages.each(function(index) {
     index += 1;
     if (index === messages.length) window.setTimeout( function() { writer.remove(); }, timeOut );
     window.setTimeout( function() { showMessage(index); }, timeOut );
-    timeOut += 1000;
+    timeOut += 1500;
   });
 }
 
