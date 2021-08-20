@@ -23,4 +23,4 @@ Note : I have taken only a part of the song to collaborate with my UI
 
 ## Check out the project here
 
-<a href="https://rashahameed.github.io/revolution/index.html"><Click here to Redirect yourself to the project page</a>
+<a href="https://rashahameed.github.io/revolution/index.html">Click here to Visualize the Project</a>
